@@ -71,3 +71,13 @@ export default defineConfig([
   },
 ])
 ```
+### How to get all things to work 
+for the development vite server run 
+```
+npm install
+npm run dev
+```
+For the JSON server, just run
+```
+npm run serve
+```
